@@ -1,0 +1,4 @@
+- ohne Maus bedienbar
+- wai-aria document landmarks
+- darkmode
+- dokumentation von Barrierefreiheit
